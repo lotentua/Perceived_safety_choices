@@ -6,6 +6,7 @@ National Technical University of Athens
 """
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 def inf_match(s_inf): # functions that codes infrastructure, 
     # it may need modification if dummy coding to describe non-linearities among categories
